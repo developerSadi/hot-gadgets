@@ -1,0 +1,18 @@
+ .container #button-slide{
+    background-image: linear-gradient(to right,#ff8206,#ffd019);
+    height: 10px;
+    border-radius: 10px;
+    
+} 
+
+.carousel-control-prev span{
+    
+
+}
+.smart_phone .card{
+    border: none;
+    box-shadow: 1px 1px 10px #80808080;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 15px;
+}
